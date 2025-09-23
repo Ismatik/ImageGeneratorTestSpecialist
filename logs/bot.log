@@ -6,3 +6,426 @@
 2025-09-23 12:24:39,422 - aiogram.dispatcher - WARNING - Received SIGINT signal
 2025-09-23 12:24:39,423 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
 2025-09-23 12:24:39,423 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:42:16,690 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:42:16,690 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:42:16,997 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:42:21,610 - aiogram.event - INFO - Update id=502605584 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:44:42,242 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:44:42,243 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:44:42,243 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:44:46,794 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:44:46,795 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:44:46,911 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:44:48,744 - aiogram.event - INFO - Update id=502605585 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:45:11,772 - aiogram.event - INFO - Update id=502605586 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:46:13,641 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:46:13,641 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:46:13,641 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:46:18,537 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:46:18,537 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:46:18,741 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:46:21,200 - aiogram.event - INFO - Update id=502605587 is not handled. Duration 2 ms by bot id=8471805597
+2025-09-23 12:46:21,200 - aiogram.event - ERROR - Cause exception while process update id=502605587 by bot id=8471805597
+ValidationError: 16 validation errors for ReplyKeyboardMarkup
+keyboard.0.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='text', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.0.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='Share Contact', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.1.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_users', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.1.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.2.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_chat', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.2.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.3.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_contact', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.3.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=True, input_type=bool]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.4.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_location', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.4.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.5.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_poll', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.5.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.6.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='web_app', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.6.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.7.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_user', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.7.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+Traceback (most recent call last):
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/buttons/buttons.py", line 18, in start
+    kb = ReplyKeyboardMarkup(keyboard=kb,
+                             resize_keyboard=True,
+                             one_time_keyboard=True)
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/pydantic/main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 16 validation errors for ReplyKeyboardMarkup
+keyboard.0.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='text', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.0.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='Share Contact', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.1.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_users', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.1.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.2.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_chat', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.2.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.3.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_contact', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.3.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=True, input_type=bool]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.4.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_location', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.4.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.5.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_poll', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.5.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.6.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='web_app', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.6.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.7.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='request_user', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+keyboard.7.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-23 12:46:24,576 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:46:24,577 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:46:24,577 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:47:39,218 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:47:39,218 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:47:39,524 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:47:46,141 - aiogram.event - INFO - Update id=502605588 is handled. Duration 436 ms by bot id=8471805597
+2025-09-23 12:47:49,103 - aiogram.event - INFO - Update id=502605589 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:49:18,604 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:49:18,604 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:49:18,604 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:49:24,392 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:49:24,392 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:49:24,613 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:49:29,803 - aiogram.event - INFO - Update id=502605590 is handled. Duration 1120 ms by bot id=8471805597
+2025-09-23 12:49:32,269 - aiogram.event - INFO - Update id=502605591 is handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:52:29,498 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:52:29,498 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:52:29,498 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:52:34,289 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:52:34,290 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:52:34,453 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:52:39,749 - aiogram.event - INFO - Update id=502605592 is handled. Duration 611 ms by bot id=8471805597
+2025-09-23 12:52:43,747 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 12:52:43,747 - aiogram.event - INFO - Update id=502605593 is handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:52:48,225 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:52:48,225 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:52:48,225 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:54:37,098 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:54:37,098 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:54:37,404 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:54:40,373 - aiogram.event - INFO - Update id=502605594 is handled. Duration 482 ms by bot id=8471805597
+2025-09-23 12:54:42,293 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 12:54:42,293 - aiogram.event - INFO - Update id=502605595 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:54:42,293 - aiogram.event - ERROR - Cause exception while process update id=502605595 by bot id=8471805597
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/buttons/buttons.py", line 32, in receive_phone
+    if isAdmin():
+       ~~~~~~~^^
+TypeError: 'module' object is not callable
+2025-09-23 12:55:17,611 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:55:17,612 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:55:17,612 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 12:55:22,560 - buttons.buttons - INFO - Default commands set.
+2025-09-23 12:55:22,560 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 12:55:22,867 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:55:23,790 - aiogram.event - INFO - Update id=502605596 is handled. Duration 613 ms by bot id=8471805597
+2025-09-23 12:55:26,242 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 12:55:26,582 - aiogram.event - INFO - Update id=502605597 is handled. Duration 341 ms by bot id=8471805597
+2025-09-23 12:57:25,607 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:57:25,608 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:57:25,608 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 14:28:59,150 - buttons.buttons - INFO - Default commands set.
+2025-09-23 14:28:59,150 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 14:28:59,457 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 14:29:13,253 - aiogram.event - INFO - Update id=502605598 is handled. Duration 574 ms by bot id=8471805597
+2025-09-23 14:29:14,788 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 14:29:14,788 - aiogram.event - INFO - Update id=502605599 is handled. Duration 0 ms by bot id=8471805597
+2025-09-23 14:29:38,982 - aiogram.event - INFO - Update id=502605600 is handled. Duration 233 ms by bot id=8471805597
+2025-09-23 14:29:45,230 - buttons.buttons - INFO - PHONE NUMBER +992938636344 and ID 974794263 of the USER added.
+2025-09-23 14:29:45,536 - aiogram.event - INFO - Update id=502605601 is handled. Duration 306 ms by bot id=8471805597
+2025-09-23 14:32:31,524 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 14:32:31,524 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 14:32:31,524 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 14:41:25,214 - buttons.buttons - INFO - Default commands set.
+2025-09-23 14:41:25,214 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 14:41:25,322 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 14:41:28,587 - aiogram.event - INFO - Update id=502605602 is handled. Duration 431 ms by bot id=8471805597
+2025-09-23 14:41:30,096 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 14:41:30,322 - aiogram.event - INFO - Update id=502605603 is handled. Duration 226 ms by bot id=8471805597
+2025-09-23 14:42:29,407 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 14:42:29,407 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 14:42:29,408 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 14:43:25,434 - buttons.buttons - INFO - Default commands set.
+2025-09-23 14:43:25,435 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 14:43:25,770 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 14:43:46,509 - aiogram.event - INFO - Update id=502605604 is handled. Duration 494 ms by bot id=8471805597
+2025-09-23 14:43:48,780 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 14:43:48,986 - aiogram.event - INFO - Update id=502605605 is handled. Duration 206 ms by bot id=8471805597
+2025-09-23 15:13:56,347 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 15:13:56,347 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 15:13:56,347 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 15:25:02,451 - buttons.buttons - INFO - Default commands set.
+2025-09-23 15:25:02,451 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 15:25:02,562 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 15:25:21,386 - aiogram.event - INFO - Update id=502605606 is handled. Duration 616 ms by bot id=8471805597
+2025-09-23 15:25:24,152 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 15:25:24,455 - aiogram.event - INFO - Update id=502605607 is handled. Duration 303 ms by bot id=8471805597
+2025-09-23 15:25:35,819 - aiogram.event - INFO - Update id=502605608 is handled. Duration 672 ms by bot id=8471805597
+2025-09-23 15:25:38,896 - aiogram.event - INFO - Update id=502605609 is handled. Duration 283 ms by bot id=8471805597
+2025-09-23 15:25:53,492 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 15:25:53,492 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 15:25:53,493 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 16:01:44,914 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7e5aa1322cf0>
+2025-09-23 16:02:04,495 - buttons.buttons - INFO - Default commands set.
+2025-09-23 16:02:04,495 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 16:02:04,802 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 16:02:05,100 - buttons.buttons - INFO - PHONE NUMBER +992907510905 and ID 631886740 of the USER added.
+2025-09-23 16:02:06,035 - aiogram.event - INFO - Update id=502605611 is handled. Duration 934 ms by bot id=8471805597
+2025-09-23 16:02:06,035 - aiogram.event - INFO - Update id=502605610 is handled. Duration 935 ms by bot id=8471805597
+2025-09-23 16:03:06,421 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 16:03:06,421 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 16:03:06,421 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-23 16:04:12,292 - buttons.buttons - INFO - Default commands set.
+2025-09-23 16:04:12,293 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 16:04:12,628 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 16:04:23,659 - aiogram.event - INFO - Update id=502605612 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 16:04:23,659 - aiogram.event - ERROR - Cause exception while process update id=502605612 by bot id=8471805597
+AttributeError: 'User' object has no attribute 'phone_number'
+Traceback (most recent call last):
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/buttons/buttons.py", line 20, in start
+    print(message.from_user.phone_number)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/.venv/lib/python3.13/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'User' object has no attribute 'phone_number'
+2025-09-23 16:05:46,734 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 16:05:46,735 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 16:05:46,735 - aiogram.dispatcher - INFO - Polling stopped

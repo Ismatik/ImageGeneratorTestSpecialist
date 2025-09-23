@@ -8,6 +8,8 @@ import asyncio
 
 from buttons.buttons import router as buttons_router
 from buttons.buttons import set_default_commands
+from buttons.admin_panel import router as admin_panel_router
+from buttons.user_panel import router as user_panel_router
 
 
 
@@ -23,12 +25,15 @@ async def main():
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-        handlers={
+        handlers=[
             logging.FileHandler(LOG_FILE, mode='a', encoding='utf-8'),
-            logging.StreamHandler()
-        }
+            logging.StreamHandler(),
+        ],
     )
 
+    dp.include_router(buttons_router)
+    dp.include_router(admin_panel_router)
+    dp.include_router(user_panel_router)
     await set_default_commands(bot)
     await dp.start_polling(bot)
     
