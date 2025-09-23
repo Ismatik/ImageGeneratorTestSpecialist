@@ -1,0 +1,8 @@
+2025-09-23 11:35:01,036 - buttons.buttons - INFO - Default commands set.
+2025-09-23 11:35:01,037 - aiogram.dispatcher - INFO - Start polling
+2025-09-23 11:35:01,241 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 11:35:06,951 - aiogram.event - INFO - Update id=502605582 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:21:56,057 - aiogram.event - INFO - Update id=502605583 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-23 12:24:39,422 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-23 12:24:39,423 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-23 12:24:39,423 - aiogram.dispatcher - INFO - Polling stopped
