@@ -1,19 +1,24 @@
 import logging
-from config import config
+from config import config 
 
 from openpyxl import load_workbook
 import pandas as pd 
+from config import USERS_PATH
 
-def isAdmin(phone : str) -> bool:
-    admin_numbers = config.ADMIN_PHONE_NUMBERS.get_secret_value()
+def isAdmin(user_id : int) -> bool:
+    admin_numbers = int(config.ADMIN_ID.get_secret_value())
 
-    return phone in admin_numbers
+    return user_id == admin_numbers
 
 
-def isUser(phone : str) -> bool:
-    df = pd.read_excel("users.xlsx")
-    print(df["Phone Number"].tolist())
-    if "+992" in phone:
-        phone = int(phone.replace("+992",""))
-
-    return phone in df["Phone Number"].tolist()
+def is_registered_user(username: str) -> bool:
+    username = "@" + username.strip()
+    try:
+        df = pd.read_excel(USERS_PATH)
+        if username in df["User"].tolist():
+            return True
+        return False
+    except Exception:
+        return False
+    
+    
