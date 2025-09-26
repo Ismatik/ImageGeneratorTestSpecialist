@@ -5,7 +5,9 @@ from aiogram import F, Router
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup, Message
-from buttons.view_categories import build_category_menu
+# from buttons.view_categories import build_category_menu, build_nomenclature_menu
+from buttons.user_panel import build_category_menu, build_nomenclature_menu
+
 import pandas as pd
 
 USERS_PATH = Path("/home/ikki/Desktop/Koinot/ImageGeneratorTestSpecialist/users.xlsx")

@@ -17,9 +17,9 @@ router = Router()
 @router.message(Command("start"))
 async def start(message: Message):
     username = message.from_user.username
-    # if isAdmin(message.from_user.id):
-    #     await handle_admin_panel(message)
-    #     return
+    if isAdmin(message.from_user.id):
+        await handle_admin_panel(message)
+        return
     if not is_registered_user(username):
         return await message.answer("You are not registered to use this bot.")
     else:

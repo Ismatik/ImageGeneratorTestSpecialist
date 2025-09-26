@@ -2026,3 +2026,105 @@ NameError: name 'callback' is not defined
 2025-09-24 17:16:15,865 - aiogram.dispatcher - WARNING - Received SIGINT signal
 2025-09-24 17:16:15,865 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
 2025-09-24 17:16:15,866 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-25 09:07:43,802 - buttons.buttons - INFO - Default commands set.
+2025-09-25 09:07:43,803 - aiogram.dispatcher - INFO - Start polling
+2025-09-25 09:07:44,005 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 09:07:49,020 - aiogram.event - INFO - Update id=502605729 is handled. Duration 596 ms by bot id=8471805597
+2025-09-25 09:07:52,394 - aiogram.event - INFO - Update id=502605730 is handled. Duration 306 ms by bot id=8471805597
+2025-09-25 09:07:55,464 - aiogram.event - INFO - Update id=502605731 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-25 09:08:00,116 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-25 09:08:00,116 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 09:08:00,116 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-25 09:08:23,912 - buttons.buttons - INFO - Default commands set.
+2025-09-25 09:08:23,912 - aiogram.dispatcher - INFO - Start polling
+2025-09-25 09:08:24,116 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 09:08:27,595 - aiogram.event - INFO - Update id=502605732 is handled. Duration 507 ms by bot id=8471805597
+2025-09-25 09:08:29,438 - aiogram.event - INFO - Update id=502605733 is handled. Duration 204 ms by bot id=8471805597
+2025-09-25 09:08:47,562 - aiogram.event - INFO - Update id=502605734 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-25 10:01:14,705 - aiogram.event - INFO - Update id=502605735 is handled. Duration 717 ms by bot id=8471805597
+2025-09-25 10:01:17,470 - aiogram.event - INFO - Update id=502605736 is handled. Duration 311 ms by bot id=8471805597
+2025-09-25 10:01:19,562 - aiogram.event - INFO - Update id=502605737 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-25 10:01:35,711 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-25 10:01:35,711 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 10:01:35,711 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-25 10:01:42,047 - buttons.buttons - INFO - Default commands set.
+2025-09-25 10:01:42,048 - aiogram.dispatcher - INFO - Start polling
+2025-09-25 10:01:42,354 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 10:01:43,273 - aiogram.event - INFO - Update id=502605738 is handled. Duration 590 ms by bot id=8471805597
+2025-09-25 10:01:46,044 - aiogram.event - INFO - Update id=502605739 is handled. Duration 414 ms by bot id=8471805597
+2025-09-25 10:01:47,577 - aiogram.event - INFO - Update id=502605740 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-25 10:01:52,002 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-25 10:01:52,003 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 10:01:52,003 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-25 10:22:03,278 - buttons.buttons - INFO - Default commands set.
+2025-09-25 10:22:03,279 - aiogram.dispatcher - INFO - Start polling
+2025-09-25 10:22:03,528 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 10:22:49,357 - aiogram.event - INFO - Update id=502605741 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-25 10:32:33,893 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-25 10:32:33,893 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-25 10:32:33,893 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-26 08:50:16,673 - buttons.buttons - INFO - Default commands set.
+2025-09-26 08:50:16,676 - aiogram.dispatcher - INFO - Start polling
+2025-09-26 08:50:16,980 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-26 08:50:17,800 - aiogram.event - INFO - Update id=502605742 is handled. Duration 511 ms by bot id=8471805597
+2025-09-26 08:50:17,801 - aiogram.event - INFO - Update id=502605743 is handled. Duration 511 ms by bot id=8471805597
+2025-09-26 08:50:27,376 - aiogram.event - INFO - Update id=502605744 is handled. Duration 256 ms by bot id=8471805597
+2025-09-26 08:50:32,034 - aiogram.event - INFO - Update id=502605745 is handled. Duration 690 ms by bot id=8471805597
+2025-09-26 08:51:06,753 - aiogram.event - INFO - Update id=502605746 is handled. Duration 309 ms by bot id=8471805597
+2025-09-26 08:51:33,361 - aiogram.event - INFO - Update id=502605747 is handled. Duration 190 ms by bot id=8471805597
+2025-09-26 08:51:36,852 - aiogram.event - INFO - Update id=502605748 is handled. Duration 302 ms by bot id=8471805597
+2025-09-26 08:52:40,742 - aiogram.event - INFO - Update id=502605749 is handled. Duration 301 ms by bot id=8471805597
+2025-09-26 08:52:49,966 - aiogram.event - INFO - Update id=502605750 is not handled. Duration 0 ms by bot id=8471805597
+2025-09-26 10:28:33,522 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-09-26 10:28:33,522 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8471805597)
+2025-09-26 10:28:37,292 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2025-09-26 10:28:37,292 - aiogram.dispatcher - WARNING - Sleep for 1.107250 seconds and try again... (tryings = 1, bot id = 8471805597)
+2025-09-26 10:28:40,363 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2025-09-26 10:28:40,363 - aiogram.dispatcher - WARNING - Sleep for 1.491681 seconds and try again... (tryings = 2, bot id = 8471805597)
+2025-09-26 10:28:43,435 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2025-09-26 10:28:43,435 - aiogram.dispatcher - WARNING - Sleep for 2.120806 seconds and try again... (tryings = 3, bot id = 8471805597)
+2025-09-26 10:28:46,507 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2025-09-26 10:28:46,507 - aiogram.dispatcher - WARNING - Sleep for 2.606396 seconds and try again... (tryings = 4, bot id = 8471805597)
+2025-09-26 10:28:59,834 - aiogram.dispatcher - INFO - Connection established (tryings = 5, bot id = 8471805597)
+2025-09-26 11:02:52,660 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [Temporary failure in name resolution]
+2025-09-26 11:02:52,662 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8471805597)
+2025-09-26 11:03:03,804 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [Temporary failure in name resolution]
+2025-09-26 11:03:03,804 - aiogram.dispatcher - WARNING - Sleep for 1.417256 seconds and try again... (tryings = 1, bot id = 8471805597)
+2025-09-26 11:03:35,856 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8471805597)
+2025-09-26 11:15:25,404 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-26 11:15:25,407 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-26 11:15:25,407 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-26 11:33:07,161 - buttons.buttons - INFO - Default commands set.
+2025-09-26 11:33:07,161 - aiogram.dispatcher - INFO - Start polling
+2025-09-26 11:33:07,468 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-26 11:33:33,171 - aiogram.event - INFO - Update id=502605751 is handled. Duration 623 ms by bot id=8471805597
+2025-09-26 11:33:34,684 - aiogram.event - INFO - Update id=502605752 is handled. Duration 256 ms by bot id=8471805597
+2025-09-26 11:33:38,401 - buttons.admin_panel - INFO - User @asdasd added to registry
+2025-09-26 11:33:38,802 - aiogram.event - INFO - Update id=502605753 is handled. Duration 447 ms by bot id=8471805597
+2025-09-26 11:33:40,949 - aiogram.event - INFO - Update id=502605754 is handled. Duration 510 ms by bot id=8471805597
+2025-09-26 11:33:44,319 - buttons.admin_panel - INFO - User @asdasd removed from registry
+2025-09-26 11:33:44,528 - aiogram.event - INFO - Update id=502605755 is handled. Duration 219 ms by bot id=8471805597
+2025-09-26 11:33:47,711 - aiogram.event - INFO - Update id=502605756 is handled. Duration 310 ms by bot id=8471805597
+2025-09-26 11:33:50,472 - aiogram.event - INFO - Update id=502605757 is handled. Duration 305 ms by bot id=8471805597
+2025-09-26 11:33:53,239 - aiogram.event - INFO - Update id=502605758 is handled. Duration 714 ms by bot id=8471805597
+2025-09-26 11:35:02,965 - aiogram.event - INFO - Update id=502605759 is handled. Duration 915 ms by bot id=8471805597
+2025-09-26 11:35:07,882 - aiogram.event - INFO - Update id=502605760 is handled. Duration 609 ms by bot id=8471805597
+2025-09-26 11:38:21,731 - aiogram.event - INFO - Update id=502605761 is handled. Duration 729 ms by bot id=8471805597
+2025-09-26 11:45:31,452 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-26 11:45:31,452 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-26 11:45:31,453 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-26 11:47:20,278 - buttons.buttons - INFO - Default commands set.
+2025-09-26 11:47:20,278 - aiogram.dispatcher - INFO - Start polling
+2025-09-26 11:47:20,585 - aiogram.dispatcher - INFO - Run polling for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-26 11:47:27,954 - aiogram.event - INFO - Update id=502605762 is handled. Duration 607 ms by bot id=8471805597
+2025-09-26 11:47:29,489 - aiogram.event - INFO - Update id=502605763 is handled. Duration 605 ms by bot id=8471805597
+2025-09-26 11:47:31,689 - buttons.admin_panel - INFO - User @adsad added to registry
+2025-09-26 11:47:32,261 - aiogram.event - INFO - Update id=502605764 is handled. Duration 616 ms by bot id=8471805597
+2025-09-26 11:47:35,945 - aiogram.event - INFO - Update id=502605765 is handled. Duration 610 ms by bot id=8471805597
+2025-09-26 11:47:39,940 - aiogram.event - INFO - Update id=502605766 is handled. Duration 304 ms by bot id=8471805597
+2025-09-26 11:47:42,705 - aiogram.event - INFO - Update id=502605767 is handled. Duration 383 ms by bot id=8471805597
+2025-09-26 11:47:44,754 - aiogram.event - INFO - Update id=502605768 is handled. Duration 510 ms by bot id=8471805597
+2025-09-26 11:47:47,314 - aiogram.event - INFO - Update id=502605769 is handled. Duration 819 ms by bot id=8471805597
+2025-09-26 11:54:27,316 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-26 11:54:27,316 - aiogram.dispatcher - INFO - Polling stopped for bot @ImageGeneratorDIT_bot id=8471805597 - 'Image Generator'
+2025-09-26 11:54:27,316 - aiogram.dispatcher - INFO - Polling stopped
